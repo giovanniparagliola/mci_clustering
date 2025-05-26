@@ -16,5 +16,3 @@ You are free to:
 
 
 **Attribution is required.** Please cite the original paper when using these materials.
-
-For more information, see the [LICENSE](LICENSE.md) file.
