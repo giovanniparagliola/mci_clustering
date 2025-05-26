@@ -1,5 +1,8 @@
 # mci_clustering
-This repository contains additional information related to the submitted paper "Clustering-based stratification of mild cognitive impairment patients". 
+This repository contains additional information related to the study "Stratifying Mild Cognitive Impairment Patients via Embedded Transcriptomic Data and Clustering Analysis". 
+
+PDF file containing additional information related to the study, presented in the form of graphs, tables, and images, intended for further exploration if desired but not essential for understanding the main study.
+
 
 ## Contents
 
